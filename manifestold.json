@@ -1,6 +1,6 @@
 {
-    "manifest_version": 3,
-    "name": "YouTube MrBeastify",
+    "manifest_version": 2,
+    "name": "YouTube Jawshify",
     "version": "1.4",
     "icons": {
         "16": "icons/icon-16.png",
@@ -9,8 +9,8 @@
         "64": "icons/icon-64.png",
         "96": "icons/icon-96.png"
     },
-    "description": "Modify YouTube thumbnails to include MrBeast",
-    "host_permissions": [
+    "description": "Modify YouTube thumbnails to include Jawsh",
+    "permissions": [
         "https://www.youtube.com/*"
     ],
     "content_scripts": [{
@@ -18,13 +18,8 @@
         "js": ["mrbeastify.js"],
         "run_at": "document_idle"
     }],
-    "web_accessible_resources": [{
-        "resources": [
-            "images/*.png",
-            "images/*.json"
-        ],
-        "matches": [
-            "*://*/*"
-        ]
-    }]
+    "web_accessible_resources": [
+        "images/*.png",
+        "images/*.json"
+    ]
 }

@@ -1,7 +1,9 @@
 
 <div align = center >
 
-# MrBeastify
+![Jaws](/images/1.png)
+
+# Jawshify
 
 <br>
 
@@ -10,14 +12,10 @@ trouble finding engaging click-baity videos?
 
 **Fear no more.**
 
-This extension adds the famous  
-youtuber **MrBeast** to every thumbnail.
+This extension adds the super epic and famous  
+youtuber/twitch streamer **Jawsh** to every thumbnail.
 
 <br>
-
-[![Button Download Firefox]][Download Firefox]  
-[![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
 
 </div>
 
